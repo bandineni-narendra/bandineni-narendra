@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**bandineni-narendra/bandineni-narendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>Hello there👋, I am Narendra Bandineni</h4>
 
-Here are some ideas to get you started:
+<h5> 
+  
+I'm a software engineer 🧑‍💻 fluent in the languages of both Android 🤳 and Web 🌐, which basically means I can talk to both robots 🤖 and aliens 👽.
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sometimes I feel like I'm the only one who understands the complex relationship between a bug 🐞 and a programmer 👨‍💻 – it's like a never-ending dance &nbsp; &nbsp; &nbsp; where  the bug leads and I try not to step on its toes.
+</br>
+
+But hey, at least my code has a sense of humor 😁 – it's the only explanation for all those unexpected errors, right? 🤷‍♂️
+<br>
+
+More about me at - <a href="https://devrookie.vercel.app/" target="blank">Dev Rookie</a> </h5>
+
