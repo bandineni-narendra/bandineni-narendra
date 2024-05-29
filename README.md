@@ -1,5 +1,5 @@
 
-## Hello there👋, I am Narendra Bandineni
+## Hello there👋, I am Narendra Bandineni 🤗
   
 #### I'm a software engineer 🧑‍💻 fluent in the languages of both Android 🤳 and Web 🌐, which basically means I can talk to both robots 🤖 and aliens 👽. 
 
