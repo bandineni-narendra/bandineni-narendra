@@ -9,8 +9,8 @@
 
 #### But hey, at least my code has a sense of humor 😁 – it's the only explanation for all those unexpected errors, right? 🤷‍♂️
 
-### ⚔️ In an ongoing battle with LeetCode : <a href= "https://leetcode.com/u/narendra_bandineni/" target="/">Bumble Bee 🐝</a>
+### ⚔️ In an ongoing battle with LeetCode : <a href= "https://leetcode.com/u/narendra_bandineni/" target="_blank" rel="noopener noreferrer">Bumble Bee 🐝</a>
 
 
-### More about me at - <a href="https://devrookie.vercel.app/" target="/">Dev Rookie</a> 
+### More about me at - <a href="https://devrookie.vercel.app/" target="_blank" rel="noopener noreferrer">Dev Rookie</a> 
 
