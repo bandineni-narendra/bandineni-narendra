@@ -7,7 +7,7 @@
 #### Sometimes I feel like I'm the only one who understands the complex relationship between a bug 🐞 and a programmer 👨‍💻 – it's like a never-ending dance where  the bug leads and I try not to step on its toes.
 
 
-#### But hey, at least my code has a sense of humor 😁 – it's the only explanation for all those unexpected errors, right? <--> 🤷‍♂️
+#### But hey, at least my code has a sense of humor 😁 – it's the only explanation for all those unexpected errors, right? <-👻-> 🤷‍♂️
 
 ### ⚔️ In an ongoing battle with Leet Code : <a href= "https://leetcode.com/u/narendra_bandineni/" target="_blank" rel="noopener noreferrer">Bumble Bee 🐝</a>
 
